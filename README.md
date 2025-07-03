@@ -1,2 +1,2 @@
 # Mathematics-for-data-science
- Linear & Logistic Regression on E-commerce and advertizing-company dataset for predicting based on data.
+ Linear & Logistic Regression projects on E-commerce and advertizing-company dataset for predicting based on data.

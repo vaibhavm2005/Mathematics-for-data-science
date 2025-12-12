@@ -35,43 +35,14 @@ This model was developed to predict whether a user would click on a digital adve
 * **Engineering Practices:** Code modularity, clear variable naming, setting random_state for reproducibility.
 
 ## Setup and Dependencies
-### Option 1: Local Setup
-To run these notebooks locally, you will need a Python environment with the following libraries installed.
-```python
-pip install pandas numpy scikit-learn matplotlib seaborn jupyter
-```
-#### Running the Project
-1) Clone this repository:
-```python
-git clone [Your Actual GitHub Link Here]
-cd [Your Repository Name]
-```
-2) Launch Jupyter Notebook:
-```python
-jupyter notebook
-```
-3) Open and run the two `.ipynb` files sequentially.
-
-### Option 2: Running in Google Colab (Recommended)
+### Running in Google Colab
 You can run these notebooks directly in Google Colab, which handles the environment setup and dependencies automatically.
 #### Open Notebooks in colab: 
-* Linear Regression:
-* Logistic Regression:
+* Linear Regression: [Open in Colab](https://colab.research.google.com/drive/18fisuFBpMK6ZZ_nPTjahxwKlPIej7LFq#scrollTo=R3CLcDglFr6l)
+* Logistic Regression: [Open in Colab](https://colab.research.google.com/drive/1FNIdkiM4rFgMT8tA_7OdNzi2kEd9M3Y3#scrollTo=phgoPDPaHRNx)
 #### Steps in Colab:
-1) Click the link above for the desired notebook.
-2) **Clone the Repository and Install Dependencies:** In the first code cell of the notebook, run the following commands:
-```python
-# Clone the repository
-!git clone [Your Actual GitHub Link Here]
-
-# Change into the project directory
-%cd [Your Repository Name]
-
-# Install dependencies (only required the first time)
-!pip install pandas numpy scikit-learn matplotlib seaborn
-```
-3) Upload the dataset files.
-4) Run the subsequent cells in the notebook.
+1) Click the 'Open in Colab' link above for the desired notebook.
+2) Run the subsequent cells in the notebook.
 
 
 
